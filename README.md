@@ -5,7 +5,7 @@
 <a href="#"><img title="NayeBot" src="https://img.shields.io/badge/🐬Naye𝑩𝒐𝒕 | 🔥luis🔥 | luis ყ ln🥀-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Luisln12"><img title="Author" src="https://img.shields.io/badge/author-Samu330-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Luisln12"><img title="Author" src="https://img.shields.io/badge/author-Luisln12-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
