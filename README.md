@@ -20,13 +20,13 @@
   </a>
 
 ```bash
-> git clone https://github.com/Samu330/NyanBot
+> git clone https://github.com/Luisln12/nayebot
 ```
 
 ## Inicia la Instalacion:
 
 ```bash
-> cd NyanBot
+> cd nayebot
 > bash install.sh
 ```
 
