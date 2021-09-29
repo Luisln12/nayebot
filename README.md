@@ -2,7 +2,7 @@
 <img src="./src/assistant.jpg" width="140" height="140"/>
 </p>
 <p align="center">
-<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐬Naye𝑩𝒐𝒕 | 🔥luis🔥 | luis ყ ln🥀-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="NayeBot" src="https://img.shields.io/badge/🐬Naye𝑩𝒐𝒕 | 🔥luis🔥 | luis ყ ln🥀-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Luisln12"><img title="Author" src="https://img.shields.io/badge/author-Samu330-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
