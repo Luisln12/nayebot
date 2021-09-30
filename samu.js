@@ -1,10 +1,10 @@
-//============ NyanBot ============\\
+//============ NayeBot ============\\
 // + Favor de mantener este codigo
 //   tal y como esta.
 // + Si modificaras, manten los
 //   creditos:
-//   _MankBarBar & Samu & LolHuman_
-//============ Samu330 ============\\
+//   _naye & Samu & Luisln_
+//============ LUISLN ============\\
 const { 
   WAConnection,
   MessageType,
